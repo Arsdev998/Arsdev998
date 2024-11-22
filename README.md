@@ -41,7 +41,7 @@ I'm exploring **advanced fullstack development**, improving performance optimiza
 
 ### 📫 Reach Me
 Feel free to connect with me on:
-- [LinkedIn](www.linkedin.com/in/arsyad-gustami-23b3b0262)
+ <a href="www.linkedin.com/in/arsyad-gustami-23b3b0262"> </a>)
 - [Email](mailto:arsyaddev2024@gmail.com)
 
 ---
